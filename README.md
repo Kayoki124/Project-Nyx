@@ -1,3 +1,6 @@
+Join the discord 
+https://discord.gg/n75Z94eduR
+
 Project Nyx is a privacy first cybersecurity framework built to make digital security simple, accessible, and free for everyone. Designed for users of all experience levels, Nyx combines strong encryption, ease-of-use, and transparency to give you complete control over your data.
 
 Aegis, the first application under Project Nyx, is a fully encrypted, offline password manager that generates and stores strong passwords for all your accounts.
